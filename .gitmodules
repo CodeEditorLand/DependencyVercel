@@ -1,0 +1,11 @@
+[submodule "Cargo"]
+path = Cargo
+url = ssh://git@github.com/CodeEditorLand/DependencyVercelCargo.git
+
+[submodule "NPM"]
+path = NPM
+url = ssh://git@github.com/CodeEditorLand/DependencyVercelNPM.git
+
+[submodule "Dependency"]
+path = Dependency
+url = ssh://git@github.com/CodeEditorLand/DependencyVercelDependency.git
